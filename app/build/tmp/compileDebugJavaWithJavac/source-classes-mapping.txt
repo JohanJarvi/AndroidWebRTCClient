@@ -1,0 +1,15 @@
+au/com/australiandroid/androidclient/helpers/SimpleDataChannelObserver.java
+ au.com.australiandroid.androidclient.helpers.SimpleDataChannelObserver
+au/com/australiandroid/androidclient/BuildConfig.java
+ au.com.australiandroid.androidclient.BuildConfig
+au/com/australiandroid/androidclient/helpers/SimpleSdpObserver.java
+ au.com.australiandroid.androidclient.helpers.SimpleSdpObserver
+au/com/australiandroid/androidclient/DataBindingTriggerClass.java
+ au.com.australiandroid.androidclient.DataBindingTriggerClass
+au/com/australiandroid/androidclient/MainActivity.java
+ au.com.australiandroid.androidclient.MainActivity
+ au.com.australiandroid.androidclient.MainActivity$1
+ au.com.australiandroid.androidclient.MainActivity$2
+ au.com.australiandroid.androidclient.MainActivity$3
+au/com/australiandroid/androidclient/helpers/CustomPeerConnectionObserver.java
+ au.com.australiandroid.androidclient.helpers.CustomPeerConnectionObserver
